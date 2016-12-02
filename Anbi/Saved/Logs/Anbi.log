@@ -1488,3 +1488,730 @@ Localization Resource: (C:/Program Files (x86)/Epic Games/4.14/Engine/Content/Lo
 [2016.12.02-16.39.50:205][374]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
 [2016.12.02-16.39.50:205][374]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
 [2016.12.02-16.44.44:155][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/RoadCreateManager" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/RoadCreateManager.uasset" SILENT=true
+[2016.12.02-16.44.44:171][815]LogSavePackage: Save=13.27ms
+[2016.12.02-16.44.44:171][815]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/RoadCreateManager246368D14A25FF983E0D8B9A5571FFA2.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/RoadCreateManager.uasset'
+[2016.12.02-16.44.44:177][815]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/RoadCreateManager.uasset
+[2016.12.02-16.46.11:793][222]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/TP_VehicleAdvBP.upack)
+[2016.12.02-16.46.12:073][222]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2016.12.02-16.46.12:083][222]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleAdvBP/AdvancedVehicleOverview.uasset" to "../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/AdvancedVehicleOverview.uasset"
+[2016.12.02-16.46.12:094][222]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleAdvBP/Blueprints/VehicleAdvGameMode.uasset" to "../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Blueprints/VehicleAdvGameMode.uasset"
+[2016.12.02-16.46.12:109][222]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleAdvBP/Blueprints/VehicleAdvHud.uasset" to "../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Blueprints/VehicleAdvHud.uasset"
+[2016.12.02-16.46.12:118][222]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset" to "../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset"
+[2016.12.02-16.46.12:121][222]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleAdvBP/Blueprints/WheelData/Vehicle_BackTireType.uasset" to "../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Blueprints/WheelData/Vehicle_BackTireType.uasset"
+[2016.12.02-16.46.12:125][222]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleAdvBP/Blueprints/WheelData/Vehicle_FrontTireType.uasset" to "../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Blueprints/WheelData/Vehicle_FrontTireType.uasset"
+[2016.12.02-16.46.12:129][222]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleAdvBP/Blueprints/WheelData/WheelBack.uasset" to "../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Blueprints/WheelData/WheelBack.uasset"
+[2016.12.02-16.46.12:133][222]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleAdvBP/Blueprints/WheelData/WheelFront.uasset" to "../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Blueprints/WheelData/WheelFront.uasset"
+[2016.12.02-16.46.12:149][222]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" to "../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap"
+[2016.12.02-16.46.12:233][222]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset" to "../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset"
+[2016.12.02-16.46.12:237][222]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleAdvBP/Maps/LayerInfo/Desert_LayerInfo.uasset" to "../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/LayerInfo/Desert_LayerInfo.uasset"
+[2016.12.02-16.46.12:240][222]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleAdvBP/Maps/LayerInfo/Track_LayerInfo.uasset" to "../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/LayerInfo/Track_LayerInfo.uasset"
+[2016.12.02-16.46.12:265][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/AdvancedVehicleOverview" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/AdvancedVehicleOverview.uasset" SILENT=true
+[2016.12.02-16.46.12:283][222]LogSavePackage: Save=8.80ms
+[2016.12.02-16.46.12:283][222]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/AdvancedVehicleOverviewBF87507947C6A43BB85AD489ACFCD78F.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/AdvancedVehicleOverview.uasset'
+[2016.12.02-16.46.12:285][222]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/AdvancedVehicleOverview.uasset
+[2016.12.02-16.46.16:802][473]LogMaterial: Missing cached shader map for material Fixed_Template_Master, compiling. 
+[2016.12.02-16.46.16:837][473]LogMaterial: Missing cached shader map for material MasterSolidColor, compiling. 
+[2016.12.02-16.46.16:863][473]LogTexture:Display: 텍스처 빌드중: Texture2D_7 (BGRA8)
+[2016.12.02-16.46.16:865][473]LogTexture:Display: 텍스처 빌드중: Texture2D_14 (BGRA8)
+[2016.12.02-16.46.16:866][473]LogTexture:Display: 텍스처 빌드중: Texture2D_11 (BGRA8)
+[2016.12.02-16.46.16:867][473]LogTexture:Display: 텍스처 빌드중: Texture2D_13 (BGRA8)
+[2016.12.02-16.46.16:869][473]LogTexture:Display: 텍스처 빌드중: Texture2D_12 (BGRA8)
+[2016.12.02-16.46.16:871][473]LogTexture:Display: 텍스처 빌드중: Texture2D_6 (BGRA8)
+[2016.12.02-16.46.16:877][473]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2016.12.02-16.46.16:932][473]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2016.12.02-16.46.16:952][473]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2016.12.02-16.46.16:992][473]LogTexture:Display: 텍스처 빌드중: Texture2D_15 (BGRA8)
+[2016.12.02-16.46.17:077][473]LogMaterial: Missing cached shader map for material MasterGrid, compiling. 
+[2016.12.02-16.46.17:162][473]LogTexture:Display: 텍스처 빌드중: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.02-16.46.17:626][473]LogTexture:Display: 텍스처 빌드중: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.02-16.46.17:921][473]LogTexture:Display: 텍스처 빌드중: HQ_Lightmap0_3 (AutoDXT)
+[2016.12.02-16.46.18:211][473]LogTexture:Display: 텍스처 빌드중: HQ_Lightmap0_4 (AutoDXT)
+[2016.12.02-16.46.18:491][473]LogTexture:Display: 텍스처 빌드중: HQ_Lightmap0_5 (AutoDXT)
+[2016.12.02-16.46.18:697][473]LogTexture:Display: 텍스처 빌드중: HQ_Lightmap0_6 (AutoDXT)
+[2016.12.02-16.46.18:863][473]LogTexture:Display: 텍스처 빌드중: HQ_Lightmap0_7 (AutoDXT)
+[2016.12.02-16.46.18:935][473]LogTexture:Display: 텍스처 빌드중: HQ_Lightmap0_8 (AutoDXT)
+[2016.12.02-16.46.18:952][473]LogTexture:Display: 텍스처 빌드중: HQ_Lightmap0_9 (AutoDXT)
+[2016.12.02-16.46.19:020][473]LogTexture:Display: 텍스처 빌드중: LQ_Lightmap_0_1 (DXT1)
+[2016.12.02-16.46.19:397][473]LogTexture:Display: 텍스처 빌드중: LQ_Lightmap_0_2 (DXT1)
+[2016.12.02-16.46.19:525][473]LogTexture:Display: 텍스처 빌드중: LQ_Lightmap_0_3 (DXT1)
+[2016.12.02-16.46.19:666][473]LogTexture:Display: 텍스처 빌드중: LQ_Lightmap_0_4 (DXT1)
+[2016.12.02-16.46.19:771][473]LogTexture:Display: 텍스처 빌드중: LQ_Lightmap_0_5 (DXT1)
+[2016.12.02-16.46.19:900][473]LogTexture:Display: 텍스처 빌드중: LQ_Lightmap_0_6 (DXT1)
+[2016.12.02-16.46.19:999][473]LogTexture:Display: 텍스처 빌드중: LQ_Lightmap_0_7 (DXT1)
+[2016.12.02-16.46.20:068][473]LogTexture:Display: 텍스처 빌드중: LQ_Lightmap_0_8 (DXT1)
+[2016.12.02-16.46.20:078][473]LogTexture:Display: 텍스처 빌드중: LQ_Lightmap_0_9 (DXT1)
+[2016.12.02-16.46.20:119][473]LogTexture:Display: 텍스처 빌드중: SkyOcclusion0_1 (AutoDXT)
+[2016.12.02-16.46.20:336][473]LogTexture:Display: 텍스처 빌드중: SkyOcclusion0_2 (AutoDXT)
+[2016.12.02-16.46.20:472][473]LogTexture:Display: 텍스처 빌드중: SkyOcclusion0_3 (AutoDXT)
+[2016.12.02-16.46.20:603][473]LogTexture:Display: 텍스처 빌드중: SkyOcclusion0_4 (AutoDXT)
+[2016.12.02-16.46.20:726][473]LogTexture:Display: 텍스처 빌드중: SkyOcclusion0_5 (AutoDXT)
+[2016.12.02-16.46.20:821][473]LogTexture:Display: 텍스처 빌드중: SkyOcclusion0_6 (AutoDXT)
+[2016.12.02-16.46.20:905][473]LogTexture:Display: 텍스처 빌드중: SkyOcclusion0_7 (AutoDXT)
+[2016.12.02-16.46.20:937][473]LogTexture:Display: 텍스처 빌드중: SkyOcclusion0_8 (AutoDXT)
+[2016.12.02-16.46.20:947][473]LogTexture:Display: 텍스처 빌드중: SkyOcclusion0_9 (AutoDXT)
+[2016.12.02-16.46.20:962][473]LogTexture:Display: 텍스처 빌드중: ShadowMapTexture2D_0 (G8)
+[2016.12.02-16.46.21:105][473]LogTexture:Display: 텍스처 빌드중: ShadowMapTexture2D_1 (G8)
+[2016.12.02-16.46.21:244][473]LogTexture:Display: 텍스처 빌드중: ShadowMapTexture2D_2 (G8)
+[2016.12.02-16.46.21:282][473]LogTexture:Display: 텍스처 빌드중: ShadowMapTexture2D_3 (G8)
+[2016.12.02-16.46.21:412][473]LogTexture:Display: 텍스처 빌드중: ShadowMapTexture2D_4 (G8)
+[2016.12.02-16.46.21:419][473]LogTexture:Display: 텍스처 빌드중: ShadowMapTexture2D_5 (G8)
+[2016.12.02-16.46.21:450][473]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2016.12.02-16.46.23:659][473]Cmd: MAP LOAD FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.02-16.46.23:661][473]LightingResults: New page: 라이팅 빌드
+[2016.12.02-16.46.23:666][473]LoadErrors: New page: 맵 로드중: VehicleAdvExampleMap.umap
+[2016.12.02-16.46.23:669][473]MapCheck: New page: 맵 체크
+[2016.12.02-16.46.23:669][473]LightingResults: New page: 라이팅 빌드
+[2016.12.02-16.46.24:967][473]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.02-16.46.24:993][473]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.02-16.46.25:109][473]MapCheck: 정보 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 116.512ms.
+[2016.12.02-16.46.25:111][473]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 1.459
+[2016.12.02-16.46.26:270][523]LogTemp: Repeting last play command: 선택된 뷰포트
+[2016.12.02-16.46.26:295][523]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2016.12.02-16.46.26:295][523]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_Blueprint_0 before play...
+[2016.12.02-16.46.26:455][523]LogPlayLevel: [PlayLevel] Compiling RoadCreateManager before play...
+[2016.12.02-16.46.26:690][523]LogPlayLevel: PlayLevel: Blueprint regeneration took 395 ms (2 blueprints)
+[2016.12.02-16.46.26:695][523]PIE: New page: PIE 세션: VehicleAdvExampleMap (2016. 12. 3. 오전 10:46:26)
+[2016.12.02-16.46.26:695][523]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2016.12.02-16.46.26:740][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044566s)
+[2016.12.02-16.46.26:742][523]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2016.12.02-16.46.26:743][523]LogPlayLevel: PIE: World Init took: (0.002914s)
+[2016.12.02-16.46.26:745][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.049387s)
+[2016.12.02-16.46.26:783][523]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.02-16.46.26:831][523]LogInit: FAudioDevice initialized.
+[2016.12.02-16.46.26:908][523]LogUObjectGlobals:Warning: 'Class 없음.' 오브젝트를 찾는 데 실패했습니다.
+[2016.12.02-16.46.26:909][523]LogLoad: Game class is 'GameModeBase'
+[2016.12.02-16.46.26:926][523]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2016.12.03-01.46.26
+[2016.12.02-16.46.26:930][523]LogWorld: Bringing up level for play took: 0.013910
+[2016.12.02-16.46.27:015][523]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2016.12.02-16.46.27:020][523]PIE: 정보 /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.346
+[2016.12.02-16.46.49:766][720]LogTemp: Repeting last play command: 선택된 뷰포트
+[2016.12.02-16.46.49:779][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.02-16.46.49:779][720]PIE: New page: PIE 세션: VehicleAdvExampleMap (2016. 12. 3. 오전 10:46:49)
+[2016.12.02-16.46.49:779][720]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2016.12.02-16.46.49:803][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024550s)
+[2016.12.02-16.46.49:804][720]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2016.12.02-16.46.49:804][720]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2016.12.02-16.46.49:804][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.025504s)
+[2016.12.02-16.46.49:823][720]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.02-16.46.49:844][720]LogInit: FAudioDevice initialized.
+[2016.12.02-16.46.49:877][720]LogUObjectGlobals:Warning: 'Class 없음.' 오브젝트를 찾는 데 실패했습니다.
+[2016.12.02-16.46.49:877][720]LogLoad: Game class is 'GameModeBase'
+[2016.12.02-16.46.49:882][720]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2016.12.03-01.46.49
+[2016.12.02-16.46.49:882][720]LogWorld: Bringing up level for play took: 0.004645
+[2016.12.02-16.46.49:883][720]PIE: 정보 /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.791
+[2016.12.02-16.57.19:988][986]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\5.FBX)
+[2016.12.02-16.57.20:001][986]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.12.02-16.57.20:001][986]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.12.02-16.57.20:001][986]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.12.02-16.57.20:001][986]LogFbx: ItemName: Model, ItemCount : 1
+[2016.12.02-16.57.20:001][986]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.12.02-16.57.20:012][986]LogFbx: Loading FBX Scene from C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\5.FBX
+[2016.12.02-16.57.20:025][986]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.02-16.57.21:433][986]LogFbx: Loading FBX Scene from C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\5.FBX
+[2016.12.02-16.57.21:438][986]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.02-16.57.21:441][986]LogFbx:Warning: Triangulating static mesh Box006
+[2016.12.02-16.57.21:445][986]LogStaticMesh: 5 스태틱 메시 빌드중...
+[2016.12.02-16.57.21:448][986]LogStaticMesh: Built static mesh [0.00s] /Game/GraphicSource/Body/5.5
+[2016.12.02-16.57.21:461][986]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\6.FBX)
+[2016.12.02-16.57.21:470][986]LogFbx: Loading FBX Scene from C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\6.FBX
+[2016.12.02-16.57.21:475][986]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.02-16.57.21:478][986]LogStaticMesh: 6 스태틱 메시 빌드중...
+[2016.12.02-16.57.21:481][986]LogStaticMesh: Built static mesh [0.00s] /Game/GraphicSource/Body/6.6
+[2016.12.02-16.57.21:494][986]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\7.FBX)
+[2016.12.02-16.57.21:502][986]LogFbx: Loading FBX Scene from C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\7.FBX
+[2016.12.02-16.57.21:508][986]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.02-16.57.21:510][986]LogStaticMesh: 7 스태틱 메시 빌드중...
+[2016.12.02-16.57.21:512][986]LogStaticMesh: Built static mesh [0.00s] /Game/GraphicSource/Body/7.7
+[2016.12.02-16.57.21:522][986]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\8.FBX)
+[2016.12.02-16.57.21:531][986]LogFbx: Loading FBX Scene from C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\8.FBX
+[2016.12.02-16.57.21:536][986]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.02-16.57.21:538][986]LogStaticMesh: 8 스태틱 메시 빌드중...
+[2016.12.02-16.57.21:541][986]LogStaticMesh: Built static mesh [0.00s] /Game/GraphicSource/Body/8.8
+[2016.12.02-16.57.21:550][986]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\9.FBX)
+[2016.12.02-16.57.21:559][986]LogFbx: Loading FBX Scene from C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\9.FBX
+[2016.12.02-16.57.21:564][986]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.02-16.57.21:566][986]LogStaticMesh: 9 스태틱 메시 빌드중...
+[2016.12.02-16.57.21:571][986]LogStaticMesh: Built static mesh [0.00s] /Game/GraphicSource/Body/9.9
+[2016.12.02-16.57.21:571][986]LogStaticMesh:Warning: 9 에 퇴화된 탄젠트 베이스가 있어서 셰이딩이 잘못 나오게 됩니다. MikkTSpace 는 탄젠트 베이스에 의존해서 메시가 깨질 수 있습니다. 이 옵션을 꺼 보시기 바랍니다.
+[2016.12.02-16.57.21:579][986]FBXImport:Warning: 경고 9 에 퇴화된 탄젠트 베이스가 있어서 셰이딩이 잘못 나오게 됩니다. MikkTSpace 는 탄젠트 베이스에 의존해서 메시가 깨질 수 있습니다. 이 옵션을 꺼 보시기 바랍니다. 
+[2016.12.02-16.57.21:594][986]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\1.FBX)
+[2016.12.02-16.57.21:602][986]LogFbx: Loading FBX Scene from C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\1.FBX
+[2016.12.02-16.57.21:607][986]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.02-16.57.21:609][986]LogFbx:Warning: Triangulating static mesh Box002
+[2016.12.02-16.57.21:612][986]LogStaticMesh: 1 스태틱 메시 빌드중...
+[2016.12.02-16.57.21:614][986]LogStaticMesh: Built static mesh [0.00s] /Game/GraphicSource/Body/1.1
+[2016.12.02-16.57.21:623][986]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\2.FBX)
+[2016.12.02-16.57.21:633][986]LogFbx: Loading FBX Scene from C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\2.FBX
+[2016.12.02-16.57.21:638][986]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.02-16.57.21:641][986]LogFbx:Warning: Triangulating static mesh Box003
+[2016.12.02-16.57.21:644][986]LogStaticMesh: 2 스태틱 메시 빌드중...
+[2016.12.02-16.57.21:646][986]LogStaticMesh: Built static mesh [0.00s] /Game/GraphicSource/Body/2.2
+[2016.12.02-16.57.21:657][986]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\3.FBX)
+[2016.12.02-16.57.21:666][986]LogFbx: Loading FBX Scene from C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\3.FBX
+[2016.12.02-16.57.21:671][986]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.02-16.57.21:674][986]LogFbx:Warning: Triangulating static mesh Box004
+[2016.12.02-16.57.21:676][986]LogStaticMesh: 3 스태틱 메시 빌드중...
+[2016.12.02-16.57.21:679][986]LogStaticMesh: Built static mesh [0.00s] /Game/GraphicSource/Body/3.3
+[2016.12.02-16.57.21:688][986]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\4.FBX)
+[2016.12.02-16.57.21:699][986]LogFbx: Loading FBX Scene from C:\Users\GameDev\Desktop\Gitre\GraphicSource\Body\4.FBX
+[2016.12.02-16.57.21:704][986]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.02-16.57.21:708][986]LogStaticMesh: 4 스태틱 메시 빌드중...
+[2016.12.02-16.57.21:711][986]LogStaticMesh: Built static mesh [0.00s] /Game/GraphicSource/Body/4.4
+[2016.12.02-16.57.37:941][860]LogMetaData: Removing '/Game/GraphicSource/Body/Temp_BP.Temp_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/GraphicSource/Body/NewBlueprint.PackageMetaData'
+[2016.12.02-16.57.37:941][860]LogMetaData: Removing '/Game/GraphicSource/Body/Temp_BP.SKEL_Temp_BP_C' ref from Metadata '/Game/GraphicSource/Body/NewBlueprint.PackageMetaData'
+[2016.12.02-16.57.37:941][860]LogMetaData: Removing '/Game/GraphicSource/Body/Temp_BP.Temp_BP_C' ref from Metadata '/Game/GraphicSource/Body/NewBlueprint.PackageMetaData'
+[2016.12.02-16.57.37:941][860]LogMetaData: Removing '/Game/GraphicSource/Body/Temp_BP.Temp_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GraphicSource/Body/NewBlueprint.PackageMetaData'
+[2016.12.02-16.57.37:941][860]LogMetaData: Removing '/Game/GraphicSource/Body/Temp_BP.Temp_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GraphicSource/Body/NewBlueprint.PackageMetaData'
+[2016.12.02-16.57.37:941][860]LogMetaData: Removing '/Game/GraphicSource/Body/Temp_BP.Temp_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/GraphicSource/Body/NewBlueprint.PackageMetaData'
+[2016.12.02-16.57.37:958][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/Temp_BP" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/Temp_BP.uasset" SILENT=true
+[2016.12.02-16.57.37:971][860]LogSavePackage: Save=10.37ms
+[2016.12.02-16.57.37:971][860]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Temp_BP8B8BFD6B47DBC8F98DA80B9BC7C76785.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/Temp_BP.uasset'
+[2016.12.02-16.57.37:978][860]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/Temp_BP.uasset
+[2016.12.02-16.58.23:619][461]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.018
+[2016.12.02-16.58.23:621][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GraphicSource/Body/5] ([1] browsable assets)...
+[2016.12.02-16.58.23:633][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GraphicSource/Body/5.5]
+[2016.12.02-16.58.23:633][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/GraphicSource/Body/5]
+[2016.12.02-16.58.23:633][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/5" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/5_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2016.12.02-16.58.23:648][461]LogSavePackage: Save=13.25ms
+[2016.12.02-16.58.23:648][461]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/5_Auto3240E54614FD52AC4E4AC00960C74F435.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/5_Auto3.uasset'
+[2016.12.02-16.58.23:649][461]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/5_Auto3.uasset
+[2016.12.02-16.58.23:649][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GraphicSource/Body/6] ([1] browsable assets)...
+[2016.12.02-16.58.23:660][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GraphicSource/Body/6.6]
+[2016.12.02-16.58.23:660][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/GraphicSource/Body/6]
+[2016.12.02-16.58.23:660][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/6" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/6_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2016.12.02-16.58.23:674][461]LogSavePackage: Save=12.58ms
+[2016.12.02-16.58.23:674][461]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/6_Auto3CD0027DC407A1BBAB6DD20966C99CD66.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/6_Auto3.uasset'
+[2016.12.02-16.58.23:675][461]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/6_Auto3.uasset
+[2016.12.02-16.58.23:676][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GraphicSource/Body/7] ([1] browsable assets)...
+[2016.12.02-16.58.23:687][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GraphicSource/Body/7.7]
+[2016.12.02-16.58.23:687][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/GraphicSource/Body/7]
+[2016.12.02-16.58.23:687][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/7" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/7_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2016.12.02-16.58.23:701][461]LogSavePackage: Save=12.40ms
+[2016.12.02-16.58.23:701][461]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/7_Auto32F1721694A29D62BDA8A23949C5E282C.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/7_Auto3.uasset'
+[2016.12.02-16.58.23:702][461]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/7_Auto3.uasset
+[2016.12.02-16.58.23:702][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GraphicSource/Body/8] ([1] browsable assets)...
+[2016.12.02-16.58.23:713][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GraphicSource/Body/8.8]
+[2016.12.02-16.58.23:713][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/GraphicSource/Body/8]
+[2016.12.02-16.58.23:713][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/8" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/8_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2016.12.02-16.58.23:727][461]LogSavePackage: Save=12.68ms
+[2016.12.02-16.58.23:727][461]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/8_Auto3EDD076D04D7AF6C12819F6ADB6D3B8A4.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/8_Auto3.uasset'
+[2016.12.02-16.58.23:891][461]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/8_Auto3.uasset
+[2016.12.02-16.58.23:893][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GraphicSource/Body/9] ([1] browsable assets)...
+[2016.12.02-16.58.23:934][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GraphicSource/Body/9.9]
+[2016.12.02-16.58.23:934][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/GraphicSource/Body/9]
+[2016.12.02-16.58.23:934][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/9" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/9_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2016.12.02-16.58.23:961][461]LogSavePackage: Save=24.98ms
+[2016.12.02-16.58.23:961][461]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/9_Auto3BBE19F8B4AB7AF9314BE10AF32CCE746.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/9_Auto3.uasset'
+[2016.12.02-16.58.23:962][461]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/9_Auto3.uasset
+[2016.12.02-16.58.23:962][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GraphicSource/Body/1] ([1] browsable assets)...
+[2016.12.02-16.58.23:981][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GraphicSource/Body/1.1]
+[2016.12.02-16.58.23:981][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/GraphicSource/Body/1]
+[2016.12.02-16.58.23:981][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/1" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/1_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2016.12.02-16.58.23:995][461]LogSavePackage: Save=13.05ms
+[2016.12.02-16.58.23:995][461]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/1_Auto3C2557DF34668363372E2239E2A0845AD.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/1_Auto3.uasset'
+[2016.12.02-16.58.23:996][461]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/1_Auto3.uasset
+[2016.12.02-16.58.23:997][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GraphicSource/Body/2] ([1] browsable assets)...
+[2016.12.02-16.58.24:014][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GraphicSource/Body/2.2]
+[2016.12.02-16.58.24:014][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/GraphicSource/Body/2]
+[2016.12.02-16.58.24:014][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/2" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/2_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2016.12.02-16.58.24:028][461]LogSavePackage: Save=12.47ms
+[2016.12.02-16.58.24:028][461]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/2_Auto3C06C8D1046332D3AE34DEA932C11D70A.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/2_Auto3.uasset'
+[2016.12.02-16.58.24:029][461]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/2_Auto3.uasset
+[2016.12.02-16.58.24:030][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GraphicSource/Body/3] ([1] browsable assets)...
+[2016.12.02-16.58.24:048][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GraphicSource/Body/3.3]
+[2016.12.02-16.58.24:048][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/GraphicSource/Body/3]
+[2016.12.02-16.58.24:048][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/3" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/3_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2016.12.02-16.58.24:063][461]LogSavePackage: Save=13.14ms
+[2016.12.02-16.58.24:063][461]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/3_Auto30032363A4B627B099F6D329295A6D506.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/3_Auto3.uasset'
+[2016.12.02-16.58.24:064][461]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/3_Auto3.uasset
+[2016.12.02-16.58.24:064][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GraphicSource/Body/4] ([1] browsable assets)...
+[2016.12.02-16.58.24:083][461]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GraphicSource/Body/4.4]
+[2016.12.02-16.58.24:083][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/GraphicSource/Body/4]
+[2016.12.02-16.58.24:083][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/4" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/4_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2016.12.02-16.58.24:098][461]LogSavePackage: Save=13.58ms
+[2016.12.02-16.58.24:098][461]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/4_Auto342657016460E15ECEEBEB69F1E95DDA8.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/4_Auto3.uasset'
+[2016.12.02-16.58.24:099][461]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/4_Auto3.uasset
+[2016.12.02-16.58.24:104][461]LogSavePackage: Save=3.44ms
+[2016.12.02-16.58.24:104][461]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/NewBlueprint_Auto33F3901E4447F2EA34B54D19EF6763A14.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/NewBlueprint_Auto3.uasset'
+[2016.12.02-16.58.24:104][461]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/NewBlueprint_Auto3.uasset
+[2016.12.02-16.58.24:105][461]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GraphicSource/Body/Temp_BP] ([1] browsable assets)...
+[2016.12.02-16.58.24:105][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/GraphicSource/Body/Temp_BP]
+[2016.12.02-16.58.24:120][461]LogSavePackage: Save=9.18ms
+[2016.12.02-16.58.24:120][461]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Temp_BP_Auto347F1D63D435F14A90A984A9ED9CC62EE.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/Temp_BP_Auto3.uasset'
+[2016.12.02-16.58.24:122][461]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/Temp_BP_Auto3.uasset
+[2016.12.02-16.58.24:122][461]LogFileHelpers: Auto-saving content packages took 0.502
+[2016.12.02-17.02.52:419][209]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2016.12.02-17.02.56:175][340]LogEditorTransaction: Undo 컴포넌트 추가
+[2016.12.02-17.04.34:302][792]LogEditorTransaction: Undo 컴포넌트 변경
+[2016.12.02-17.05.16:645][977]LogEditorTransaction: Undo 컴포넌트 변경
+[2016.12.02-17.10.08:453][212]LogEditorTransaction: Undo 컴포넌트 변경
+[2016.12.02-17.10.08:738][219]LogEditorTransaction: Undo 컴포넌트 변경
+[2016.12.02-17.10.09:903][277]LogEditorTransaction: Undo 컴포넌트 변경
+[2016.12.02-17.10.25:878][ 79]LogEditorTransaction: Undo 컴포넌트 변경
+[2016.12.02-17.10.26:345][ 94]LogEditorTransaction: Undo 컴포넌트 변경
+[2016.12.02-17.10.26:667][105]LogEditorTransaction: Undo 컴포넌트 변경
+[2016.12.02-17.10.26:893][111]LogEditorTransaction: Undo 컴포넌트 변경
+[2016.12.02-17.10.27:283][127]LogEditorTransaction: Undo 컴포넌트 변경
+[2016.12.02-17.10.27:937][159]LogEditorTransaction: Undo 컴포넌트 변경
+[2016.12.02-17.10.28:416][180]LogEditorTransaction: Undo 컴포넌트 변수 이름변경
+[2016.12.02-17.11.30:941][958]BlueprintLog: New page: Temp_BP 컴파일
+[2016.12.02-17.12.21:191][660]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.12.02-17.12.24:057][818]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.022
+[2016.12.02-17.12.24:058][818]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GraphicSource/Body/Temp_BP] ([1] browsable assets)...
+[2016.12.02-17.12.24:069][818]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GraphicSource/Body/Temp_BP.Temp_BP]
+[2016.12.02-17.12.24:069][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/GraphicSource/Body/Temp_BP]
+[2016.12.02-17.12.24:097][818]LogSavePackage: Save=21.55ms
+[2016.12.02-17.12.24:097][818]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Temp_BP_Auto4CCCAFCC644E2DFB90A9E8DBD95087A17.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/Temp_BP_Auto4.uasset'
+[2016.12.02-17.12.24:098][818]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Autosaves/Game/GraphicSource/Body/Temp_BP_Auto4.uasset
+[2016.12.02-17.12.24:098][818]LogFileHelpers: Auto-saving content packages took 0.041
+[2016.12.02-17.13.28:631][880]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\GameDev\Desktop\Gitre\GraphicSource\Wheel\Basic.FBX)
+[2016.12.02-17.13.28:644][880]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.12.02-17.13.28:644][880]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.12.02-17.13.28:644][880]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.12.02-17.13.28:644][880]LogFbx: ItemName: Model, ItemCount : 1
+[2016.12.02-17.13.28:644][880]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.12.02-17.13.28:655][880]LogFbx: Loading FBX Scene from C:\Users\GameDev\Desktop\Gitre\GraphicSource\Wheel\Basic.FBX
+[2016.12.02-17.13.28:669][880]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.02-17.13.31:300][880]LogFbx: Loading FBX Scene from C:\Users\GameDev\Desktop\Gitre\GraphicSource\Wheel\Basic.FBX
+[2016.12.02-17.13.31:306][880]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.02-17.13.31:308][880]LogFbx:Warning: Triangulating static mesh Cylinder002
+[2016.12.02-17.13.31:314][880]LogStaticMesh: Basic 스태틱 메시 빌드중...
+[2016.12.02-17.13.31:319][880]LogStaticMesh: Built static mesh [0.00s] /Game/GraphicSource/Wheel/Basic.Basic
+[2016.12.02-17.13.47:189][754]BlueprintLog: New page: Temp_BP 컴파일
+[2016.12.02-17.14.19:003][565]LogEditorTransaction: Undo 컴포넌트 붙이기
+[2016.12.02-17.14.53:168][513]Cmd: TRANSACTION UNDO
+[2016.12.02-17.14.53:168][513]LogEditorTransaction: Undo 파라미터 유형 변경
+[2016.12.02-17.17.06:464][ 95]LogEditorTransaction: Undo 노드 이동
+[2016.12.02-17.19.45:429][515]LogEditorTransaction: Undo 노드 이동
+[2016.12.02-17.21.41:862][377]BlueprintLog: New page: Temp_BP 컴파일
+[2016.12.02-17.21.54:244][ 25]LogTemp: Repeting last play command: 선택된 뷰포트
+[2016.12.02-17.21.54:277][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.02-17.21.54:278][ 25]PIE: New page: PIE 세션: VehicleAdvExampleMap (2016. 12. 3. 오전 11:21:54)
+[2016.12.02-17.21.54:278][ 25]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2016.12.02-17.21.54:308][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029975s)
+[2016.12.02-17.21.54:308][ 25]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2016.12.02-17.21.54:309][ 25]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2016.12.02-17.21.54:309][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.031166s)
+[2016.12.02-17.21.54:327][ 25]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.02-17.21.54:351][ 25]LogInit: FAudioDevice initialized.
+[2016.12.02-17.21.54:382][ 25]LogUObjectGlobals:Warning: 'Class 없음.' 오브젝트를 찾는 데 실패했습니다.
+[2016.12.02-17.21.54:382][ 25]LogLoad: Game class is 'GameModeBase'
+[2016.12.02-17.21.54:388][ 25]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2016.12.03-02.21.54
+[2016.12.02-17.21.54:395][ 25]LogWorld: Bringing up level for play took: 0.012078
+[2016.12.02-17.21.54:397][ 25]PIE: 정보 /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.277
+[2016.12.02-17.22.01:539][443]LogEditorViewport: Clicking on Actor (LMB): Temp_BP_C (Temp_BP)
+[2016.12.02-17.22.14:514][156]BlueprintLog: New page: Temp_BP 컴파일
+[2016.12.02-17.22.15:811][214]LogTemp: Repeting last play command: 선택된 뷰포트
+[2016.12.02-17.22.15:824][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.02-17.22.15:824][214]PIE: New page: PIE 세션: VehicleAdvExampleMap (2016. 12. 3. 오전 11:22:15)
+[2016.12.02-17.22.15:824][214]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2016.12.02-17.22.15:848][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024179s)
+[2016.12.02-17.22.15:849][214]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2016.12.02-17.22.15:849][214]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2016.12.02-17.22.15:849][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.025305s)
+[2016.12.02-17.22.15:866][214]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.02-17.22.15:887][214]LogInit: FAudioDevice initialized.
+[2016.12.02-17.22.15:916][214]LogUObjectGlobals:Warning: 'Class 없음.' 오브젝트를 찾는 데 실패했습니다.
+[2016.12.02-17.22.15:916][214]LogLoad: Game class is 'GameModeBase'
+[2016.12.02-17.22.15:921][214]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2016.12.03-02.22.15
+[2016.12.02-17.22.15:922][214]LogWorld: Bringing up level for play took: 0.004991
+[2016.12.02-17.22.15:926][214]LogBlueprintUserMessages: [Temp_BP_262] X=-3212.560 Y=6926.268 Z=2540.674
+[2016.12.02-17.22.15:926][214]LogBlueprintUserMessages: [Temp_BP_262] X=-2951.795 Y=7054.663 Z=2540.674
+[2016.12.02-17.22.15:926][214]LogBlueprintUserMessages: [Temp_BP_262] X=-3212.560 Y=7054.663 Z=2540.674
+[2016.12.02-17.22.15:926][214]LogBlueprintUserMessages: [Temp_BP_262] X=-2951.795 Y=7183.752 Z=2540.674
+[2016.12.02-17.22.15:926][214]LogBlueprintUserMessages: [Temp_BP_262] X=-3212.560 Y=7183.752 Z=2540.674
+[2016.12.02-17.22.15:926][214]LogBlueprintUserMessages: [Temp_BP_262] X=-2951.795 Y=6926.268 Z=2540.674
+[2016.12.02-17.22.15:926][214]PIE: 정보 /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.747
+[2016.12.02-17.22.56:411][475]BlueprintLog: New page: Temp_BP 컴파일
+[2016.12.02-17.22.57:973][546]LogTemp: Repeting last play command: 선택된 뷰포트
+[2016.12.02-17.22.57:986][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.02-17.22.57:986][546]PIE: New page: PIE 세션: VehicleAdvExampleMap (2016. 12. 3. 오전 11:22:57)
+[2016.12.02-17.22.57:986][546]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2016.12.02-17.22.58:013][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026844s)
+[2016.12.02-17.22.58:013][546]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2016.12.02-17.22.58:014][546]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2016.12.02-17.22.58:014][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.027980s)
+[2016.12.02-17.22.58:033][546]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.02-17.22.58:054][546]LogInit: FAudioDevice initialized.
+[2016.12.02-17.22.58:081][546]LogUObjectGlobals:Warning: 'Class 없음.' 오브젝트를 찾는 데 실패했습니다.
+[2016.12.02-17.22.58:081][546]LogLoad: Game class is 'GameModeBase'
+[2016.12.02-17.22.58:086][546]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2016.12.03-02.22.58
+[2016.12.02-17.22.58:087][546]LogWorld: Bringing up level for play took: 0.004826
+[2016.12.02-17.22.58:088][546]PIE: 정보 /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.586
+[2016.12.02-17.23.02:208][791]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.12.02-17.23.17:683][693]LogSavePackage: Save=176.92ms
+[2016.12.02-17.23.17:683][693]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/VehicleAdvExampleMap0AAAB2A84FCFE70A358678BBEF02915E.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2016.12.02-17.23.17:686][693]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2016.12.02-17.23.18:389][693]LogSavePackage: Save=658.96ms
+[2016.12.02-17.23.18:389][693]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/VehicleAdvExampleMap_BuiltDataF2EAE09540E348BC737FBF8040C13115.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2016.12.02-17.23.18:392][693]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset
+[2016.12.02-17.23.40:246][355]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2016.12.02-17.23.42:022][445]LogSavePackage: Save=158.65ms
+[2016.12.02-17.23.42:022][445]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/VehicleAdvExampleMapBD46469D4533C2A547F5EE8E9C7850DC.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2016.12.02-17.23.42:025][445]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2016.12.02-17.23.42:643][445]LogSavePackage: Save=595.89ms
+[2016.12.02-17.23.42:643][445]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/VehicleAdvExampleMap_BuiltDataCB0E37504678FD18AFE77D8504571348.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2016.12.02-17.23.42:646][445]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset
+[2016.12.02-17.24.07:025][736]LogSavePackage: Save=160.04ms
+[2016.12.02-17.24.07:025][736]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/VehicleAdvExampleMap468AF16047E5E3080DC1AE9CC351F648.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2016.12.02-17.24.07:026][736]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2016.12.02-17.24.07:644][736]LogSavePackage: Save=595.82ms
+[2016.12.02-17.24.07:644][736]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/VehicleAdvExampleMap_BuiltData4DA58E53491C79B20DB01E8215174748.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2016.12.02-17.24.07:647][736]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset
+[2016.12.02-17.24.11:457][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/1" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/1.uasset" SILENT=true
+[2016.12.02-17.24.11:472][770]LogSavePackage: Save=13.68ms
+[2016.12.02-17.24.11:472][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/11D5696174233D6C097117790A30B6FD8.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/1.uasset'
+[2016.12.02-17.24.11:480][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/1.uasset
+[2016.12.02-17.24.11:501][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/2" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/2.uasset" SILENT=true
+[2016.12.02-17.24.11:516][770]LogSavePackage: Save=13.25ms
+[2016.12.02-17.24.11:516][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/271D5B9CB465B821F3DF29F8A0755D519.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/2.uasset'
+[2016.12.02-17.24.11:523][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/2.uasset
+[2016.12.02-17.24.11:543][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/3" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/3.uasset" SILENT=true
+[2016.12.02-17.24.11:559][770]LogSavePackage: Save=12.76ms
+[2016.12.02-17.24.11:560][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/3756B155147A7EC79D299029833CA108D.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/3.uasset'
+[2016.12.02-17.24.11:567][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/3.uasset
+[2016.12.02-17.24.11:588][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/4" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/4.uasset" SILENT=true
+[2016.12.02-17.24.11:602][770]LogSavePackage: Save=12.94ms
+[2016.12.02-17.24.11:602][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/44A9E3D3B4BCE01CE5EB16AB75529198A.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/4.uasset'
+[2016.12.02-17.24.11:609][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/4.uasset
+[2016.12.02-17.24.11:630][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/5" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/5.uasset" SILENT=true
+[2016.12.02-17.24.11:645][770]LogSavePackage: Save=12.57ms
+[2016.12.02-17.24.11:645][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/5BB40929B49C92CDB3C292CB52B9D0059.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/5.uasset'
+[2016.12.02-17.24.11:651][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/5.uasset
+[2016.12.02-17.24.11:670][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/6" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/6.uasset" SILENT=true
+[2016.12.02-17.24.11:685][770]LogSavePackage: Save=12.72ms
+[2016.12.02-17.24.11:685][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/6C63A776D47DDA356E89443B00429BF93.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/6.uasset'
+[2016.12.02-17.24.11:692][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/6.uasset
+[2016.12.02-17.24.11:712][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/7" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/7.uasset" SILENT=true
+[2016.12.02-17.24.11:726][770]LogSavePackage: Save=12.36ms
+[2016.12.02-17.24.11:726][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/7852A924546BCED918567B5A63F0386B0.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/7.uasset'
+[2016.12.02-17.24.11:733][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/7.uasset
+[2016.12.02-17.24.11:753][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/8" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/8.uasset" SILENT=true
+[2016.12.02-17.24.11:767][770]LogSavePackage: Save=12.68ms
+[2016.12.02-17.24.11:767][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/882E18A6D4A2E32C1CF7E34BE220000A2.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/8.uasset'
+[2016.12.02-17.24.11:773][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/8.uasset
+[2016.12.02-17.24.11:794][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/9" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/9.uasset" SILENT=true
+[2016.12.02-17.24.11:808][770]LogSavePackage: Save=12.70ms
+[2016.12.02-17.24.11:808][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/90BCF500B4E1BAF6AE819D0A7E89646B7.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/9.uasset'
+[2016.12.02-17.24.11:814][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/9.uasset
+[2016.12.02-17.24.11:818][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/NewBlueprint" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/NewBlueprint.uasset" SILENT=true
+[2016.12.02-17.24.11:825][770]LogSavePackage: Save=4.31ms
+[2016.12.02-17.24.11:825][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/NewBlueprintF1DEA10E4BAA657672362199B68E24BA.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/NewBlueprint.uasset'
+[2016.12.02-17.24.11:832][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/NewBlueprint.uasset
+[2016.12.02-17.24.11:853][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Body/Temp_BP" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/Temp_BP.uasset" SILENT=true
+[2016.12.02-17.24.11:884][770]LogSavePackage: Save=25.09ms
+[2016.12.02-17.24.11:884][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Temp_BP0E2EE64E49D33B5AB4ADCEA14C5FE16F.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/Temp_BP.uasset'
+[2016.12.02-17.24.11:887][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Body/Temp_BP.uasset
+[2016.12.02-17.24.11:908][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Down1" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Down1.uasset" SILENT=true
+[2016.12.02-17.24.11:923][770]LogSavePackage: Save=12.66ms
+[2016.12.02-17.24.11:923][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Down1D35D1AF542C71E85FE0BA8BD815488D2.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Down1.uasset'
+[2016.12.02-17.24.11:929][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Down1.uasset
+[2016.12.02-17.24.11:948][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Down2" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Down2.uasset" SILENT=true
+[2016.12.02-17.24.11:962][770]LogSavePackage: Save=12.52ms
+[2016.12.02-17.24.11:962][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Down219F0174D44BF0E76C5E470987AF52E6A.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Down2.uasset'
+[2016.12.02-17.24.11:968][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Down2.uasset
+[2016.12.02-17.24.11:988][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Down3" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Down3.uasset" SILENT=true
+[2016.12.02-17.24.12:002][770]LogSavePackage: Save=12.55ms
+[2016.12.02-17.24.12:002][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Down36B110640478DB4B5331A0EB35CB38B81.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Down3.uasset'
+[2016.12.02-17.24.12:008][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Down3.uasset
+[2016.12.02-17.24.12:011][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/NewBlueprint" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/NewBlueprint.uasset" SILENT=true
+[2016.12.02-17.24.12:016][770]LogSavePackage: Save=3.55ms
+[2016.12.02-17.24.12:016][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/NewBlueprint9CD7AB6742C8E984253E698904B8853A.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/NewBlueprint.uasset'
+[2016.12.02-17.24.12:022][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/NewBlueprint.uasset
+[2016.12.02-17.24.12:025][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Stright" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Stright.uasset" SILENT=true
+[2016.12.02-17.24.12:041][770]LogSavePackage: Save=9.55ms
+[2016.12.02-17.24.12:041][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Stright226014A94F3294E8C01943B14846D0DD.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Stright.uasset'
+[2016.12.02-17.24.12:050][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Stright.uasset
+[2016.12.02-17.24.12:071][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Up1" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Up1.uasset" SILENT=true
+[2016.12.02-17.24.12:085][770]LogSavePackage: Save=12.45ms
+[2016.12.02-17.24.12:085][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Up1EFF5103D4CB57D81287322B25046CF31.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Up1.uasset'
+[2016.12.02-17.24.12:089][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Up1.uasset
+[2016.12.02-17.24.12:109][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Up2" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Up2.uasset" SILENT=true
+[2016.12.02-17.24.12:124][770]LogSavePackage: Save=12.25ms
+[2016.12.02-17.24.12:124][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Up2076529FF47C69ECC0EF071B26521EF6E.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Up2.uasset'
+[2016.12.02-17.24.12:130][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Up2.uasset
+[2016.12.02-17.24.12:152][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Up3" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Up3.uasset" SILENT=true
+[2016.12.02-17.24.12:166][770]LogSavePackage: Save=12.69ms
+[2016.12.02-17.24.12:166][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Up3B818B1F94CC2EF924F102195617EFAD8.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Up3.uasset'
+[2016.12.02-17.24.12:168][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Up3.uasset
+[2016.12.02-17.24.12:194][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GraphicSource/Wheel/Basic" FILE="../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Wheel/Basic.uasset" SILENT=true
+[2016.12.02-17.24.12:208][770]LogSavePackage: Save=12.33ms
+[2016.12.02-17.24.12:208][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Basic3CD58C1E478E23384FD58587292AC252.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Wheel/Basic.uasset'
+[2016.12.02-17.24.12:210][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/GraphicSource/Wheel/Basic.uasset
+[2016.12.02-17.24.12:314][770]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: Minimal_Default, Actor: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default_C_0
+[2016.12.02-17.24.12:399][770]LogSavePackage: Save=86.89ms
+[2016.12.02-17.24.12:399][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/Minimal_Default5272FB08451DCFA6FBF836A894AC4919.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/StarterContent/Maps/Minimal_Default.umap'
+[2016.12.02-17.24.12:402][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/StarterContent/Maps/Minimal_Default.umap
+[2016.12.02-17.24.12:405][770]LogFileHelpers: Saving map 'Minimal_Default' took 0.192
+[2016.12.02-17.24.12:514][770]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: StarterMap, Actor: /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap_C_0
+[2016.12.02-17.24.12:722][770]LogSavePackage: Save=212.27ms
+[2016.12.02-17.24.12:722][770]LogSavePackage: Moving '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Saved/StarterMapA0316BF6493802EFF3698CB4E80E788B.tmp' to '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/StarterContent/Maps/StarterMap.umap'
+[2016.12.02-17.24.12:724][770]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/StarterContent/Maps/StarterMap.umap
+[2016.12.02-17.24.12:735][770]LogFileHelpers: Saving map 'StarterMap' took 0.328
+[2016.12.02-17.24.13:149][770]LogWindowsTextInputMethodSystem:Display: IME system now activated using TSF (Microsoft 입력기).
+[2016.12.02-17.24.13:385][771]Cmd: QUIT_EDITOR
+[2016.12.02-17.24.13:572][771]LogExit: Preparing to exit.
+[2016.12.02-17.24.14:733][771]LogDirectoryWatcher: A directory notification for 'C:/Users/GameDev/Desktop/Gitre/Anbi/Content/' was aborted.
+[2016.12.02-17.24.14:904][771]LogExit: Editor shut down
+[2016.12.02-17.24.14:906][771]LogExit: Transaction tracking system shut down
+[2016.12.02-17.24.16:255][771]LogObj: Freed 0b from 0 cluster array pools.
+[2016.12.02-17.24.16:255][771]LogExit: Object subsystem successfully closed.
+[2016.12.02-17.24.16:319][771]LogD3D11RHI: Shutdown
+[2016.12.02-17.24.16:319][771]LogD3D11RHI: CleanupD3DDevice
+[2016.12.02-17.24.16:476][771]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.12.02-17.24.16:523][771]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.12.02-17.24.16:523][771]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB0BE0AAE-4DCB-A3D9-90B6-6B98385ACACB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.0-3195953%2B%2B%2BUE4%2BRelease-4.14&UserID=a4213a334952557065711aa9bb419681%7C752c8d709314410b83c86e58260eb437%7Ccf90b51f-7cf5-42ba-9315-88950916df60&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.12.02-17.24.16:535][771]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (246)
+[2016.12.02-17.24.16:535][771]LogModuleManager: Shutting down and abandoning module BlueprintGraph (245)
+[2016.12.02-17.24.16:535][771]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (244)
+[2016.12.02-17.24.16:537][771]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (243)
+[2016.12.02-17.24.16:538][771]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (242)
+[2016.12.02-17.24.16:538][771]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2016.12.02-17.24.16:538][771]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2016.12.02-17.24.16:538][771]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2016.12.02-17.24.16:538][771]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2016.12.02-17.24.16:538][771]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2016.12.02-17.24.16:538][771]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2016.12.02-17.24.16:545][771]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2016.12.02-17.24.16:545][771]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2016.12.02-17.24.16:545][771]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2016.12.02-17.24.16:545][771]LogDirectoryWatcher: A directory notification for 'C:/Users/GameDev/Desktop/Gitre/Anbi/Content/Collections/' was aborted.
+[2016.12.02-17.24.16:545][771]LogDirectoryWatcher: A directory notification for 'C:/Users/GameDev/Desktop/Gitre/Anbi/Content/Developers/GameDev/Collections/' was aborted.
+[2016.12.02-17.24.16:545][771]LogDirectoryWatcher: A directory notification for 'C:/Users/GameDev/Desktop/Gitre/Anbi/Saved/Collections/' was aborted.
+[2016.12.02-17.24.16:546][771]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2016.12.02-17.24.16:547][771]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2016.12.02-17.24.16:547][771]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2016.12.02-17.24.16:549][771]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2016.12.02-17.24.16:549][771]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2016.12.02-17.24.16:549][771]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2016.12.02-17.24.16:549][771]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2016.12.02-17.24.16:549][771]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2016.12.02-17.24.16:549][771]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2016.12.02-17.24.16:549][771]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2016.12.02-17.24.16:549][771]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2016.12.02-17.24.16:549][771]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2016.12.02-17.24.16:550][771]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2016.12.02-17.24.16:551][771]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2016.12.02-17.24.16:552][771]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2016.12.02-17.24.16:552][771]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2016.12.02-17.24.16:552][771]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2016.12.02-17.24.16:552][771]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2016.12.02-17.24.16:552][771]LogModuleManager: Shutting down and abandoning module Media (215)
+[2016.12.02-17.24.16:552][771]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2016.12.02-17.24.16:552][771]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2016.12.02-17.24.16:552][771]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2016.12.02-17.24.16:552][771]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2016.12.02-17.24.16:554][771]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2016.12.02-17.24.16:554][771]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2016.12.02-17.24.16:554][771]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2016.12.02-17.24.16:554][771]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2016.12.02-17.24.16:554][771]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2016.12.02-17.24.16:554][771]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2016.12.02-17.24.16:555][771]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2016.12.02-17.24.16:556][771]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2016.12.02-17.24.16:556][771]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2016.12.02-17.24.16:556][771]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2016.12.02-17.24.16:557][771]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2016.12.02-17.24.16:557][771]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2016.12.02-17.24.16:669][771]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2016.12.02-17.24.16:670][771]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2016.12.02-17.24.16:670][771]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2016.12.02-17.24.16:670][771]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2016.12.02-17.24.16:670][771]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2016.12.02-17.24.16:672][771]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2016.12.02-17.24.16:673][771]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2016.12.02-17.24.16:673][771]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2016.12.02-17.24.16:673][771]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2016.12.02-17.24.16:673][771]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2016.12.02-17.24.16:673][771]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2016.12.02-17.24.16:674][771]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2016.12.02-17.24.16:675][771]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2016.12.02-17.24.16:675][771]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2016.12.02-17.24.16:676][771]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2016.12.02-17.24.16:676][771]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2016.12.02-17.24.16:677][771]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2016.12.02-17.24.16:677][771]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2016.12.02-17.24.16:677][771]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2016.12.02-17.24.16:677][771]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2016.12.02-17.24.16:677][771]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2016.12.02-17.24.16:679][771]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2016.12.02-17.24.16:680][771]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2016.12.02-17.24.16:680][771]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2016.12.02-17.24.16:681][771]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2016.12.02-17.24.16:681][771]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2016.12.02-17.24.16:714][771]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2016.12.02-17.24.16:715][771]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2016.12.02-17.24.16:716][771]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2016.12.02-17.24.16:717][771]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2016.12.02-17.24.16:717][771]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2016.12.02-17.24.16:718][771]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2016.12.02-17.24.16:718][771]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2016.12.02-17.24.16:718][771]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2016.12.02-17.24.16:719][771]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2016.12.02-17.24.16:727][771]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2016.12.02-17.24.16:728][771]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2016.12.02-17.24.16:729][771]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2016.12.02-17.24.16:729][771]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2016.12.02-17.24.16:731][771]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2016.12.02-17.24.16:731][771]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2016.12.02-17.24.16:732][771]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2016.12.02-17.24.16:733][771]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2016.12.02-17.24.16:733][771]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2016.12.02-17.24.16:733][771]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2016.12.02-17.24.16:733][771]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2016.12.02-17.24.16:733][771]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2016.12.02-17.24.16:733][771]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2016.12.02-17.24.16:733][771]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2016.12.02-17.24.16:733][771]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2016.12.02-17.24.16:734][771]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2016.12.02-17.24.16:734][771]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2016.12.02-17.24.16:734][771]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2016.12.02-17.24.16:820][771]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2016.12.02-17.24.16:821][771]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2016.12.02-17.24.16:821][771]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2016.12.02-17.24.16:821][771]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2016.12.02-17.24.16:821][771]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2016.12.02-17.24.16:821][771]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2016.12.02-17.24.16:822][771]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2016.12.02-17.24.16:822][771]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2016.12.02-17.24.16:822][771]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2016.12.02-17.24.16:822][771]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2016.12.02-17.24.16:822][771]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2016.12.02-17.24.16:822][771]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2016.12.02-17.24.16:822][771]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2016.12.02-17.24.16:824][771]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2016.12.02-17.24.16:824][771]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2016.12.02-17.24.16:824][771]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2016.12.02-17.24.16:824][771]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2016.12.02-17.24.16:825][771]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2016.12.02-17.24.16:825][771]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2016.12.02-17.24.16:825][771]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2016.12.02-17.24.16:825][771]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2016.12.02-17.24.16:825][771]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2016.12.02-17.24.16:826][771]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2016.12.02-17.24.16:827][771]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2016.12.02-17.24.16:827][771]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2016.12.02-17.24.16:828][771]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2016.12.02-17.24.16:828][771]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2016.12.02-17.24.16:828][771]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2016.12.02-17.24.16:829][771]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2016.12.02-17.24.16:829][771]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2016.12.02-17.24.16:829][771]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2016.12.02-17.24.16:830][771]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2016.12.02-17.24.16:830][771]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2016.12.02-17.24.16:830][771]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2016.12.02-17.24.16:830][771]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2016.12.02-17.24.16:830][771]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2016.12.02-17.24.16:830][771]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2016.12.02-17.24.16:831][771]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2016.12.02-17.24.16:831][771]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2016.12.02-17.24.16:833][771]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2016.12.02-17.24.16:835][771]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2016.12.02-17.24.16:835][771]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2016.12.02-17.24.16:936][771]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2016.12.02-17.24.17:038][771]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2016.12.02-17.24.17:038][771]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2016.12.02-17.24.17:040][771]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2016.12.02-17.24.17:040][771]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2016.12.02-17.24.17:041][771]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2016.12.02-17.24.17:041][771]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2016.12.02-17.24.17:042][771]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2016.12.02-17.24.17:042][771]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2016.12.02-17.24.17:042][771]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2016.12.02-17.24.17:042][771]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2016.12.02-17.24.17:043][771]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2016.12.02-17.24.17:043][771]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2016.12.02-17.24.17:045][771]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2016.12.02-17.24.17:046][771]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2016.12.02-17.24.17:046][771]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2016.12.02-17.24.17:046][771]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2016.12.02-17.24.17:048][771]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2016.12.02-17.24.17:050][771]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2016.12.02-17.24.17:050][771]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2016.12.02-17.24.17:052][771]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2016.12.02-17.24.17:052][771]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2016.12.02-17.24.17:055][771]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2016.12.02-17.24.17:055][771]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2016.12.02-17.24.17:055][771]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2016.12.02-17.24.17:055][771]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2016.12.02-17.24.17:055][771]LogModuleManager: Shutting down and abandoning module Core (75)
+[2016.12.02-17.24.17:055][771]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2016.12.02-17.24.17:055][771]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.12.02-17.24.17:056][771]LogDirectoryWatcher: A directory notification for '../../../../../../Users/GameDev/Desktop/Gitre/Anbi/Content/' was aborted.
+[2016.12.02-17.24.17:056][771]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.12.02-17.24.17:060][771]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2016.12.02-17.24.17:185][771]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2016.12.02-17.24.17:185][771]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2016.12.02-17.24.17:185][771]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2016.12.02-17.24.17:185][771]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2016.12.02-17.24.17:186][771]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2016.12.02-17.24.17:186][771]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2016.12.02-17.24.17:186][771]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2016.12.02-17.24.17:187][771]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2016.12.02-17.24.17:200][771]LogDerivedDataCache: Shutdown
+[2016.12.02-17.24.17:200][771]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2016.12.02-17.24.17:200][771]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2016.12.02-17.24.17:201][771]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2016.12.02-17.24.17:201][771]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2016.12.02-17.24.17:202][771]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2016.12.02-17.24.17:202][771]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2016.12.02-17.24.17:202][771]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2016.12.02-17.24.17:202][771]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2016.12.02-17.24.17:203][771]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2016.12.02-17.24.17:203][771]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2016.12.02-17.24.17:203][771]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2016.12.02-17.24.17:203][771]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2016.12.02-17.24.17:203][771]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2016.12.02-17.24.17:203][771]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2016.12.02-17.24.17:203][771]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2016.12.02-17.24.17:203][771]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2016.12.02-17.24.17:204][771]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2016.12.02-17.24.17:204][771]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2016.12.02-17.24.17:204][771]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2016.12.02-17.24.17:204][771]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2016.12.02-17.24.17:204][771]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2016.12.02-17.24.17:204][771]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2016.12.02-17.24.17:204][771]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2016.12.02-17.24.17:204][771]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2016.12.02-17.24.17:204][771]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2016.12.02-17.24.17:204][771]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2016.12.02-17.24.17:205][771]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2016.12.02-17.24.17:205][771]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2016.12.02-17.24.17:205][771]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2016.12.02-17.24.17:205][771]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2016.12.02-17.24.17:205][771]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2016.12.02-17.24.17:205][771]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2016.12.02-17.24.17:205][771]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2016.12.02-17.24.17:205][771]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2016.12.02-17.24.17:206][771]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2016.12.02-17.24.17:206][771]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2016.12.02-17.24.17:206][771]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2016.12.02-17.24.17:206][771]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2016.12.02-17.24.17:206][771]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.12.02-17.24.17:206][771]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.12.02-17.24.17:206][771]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.12.02-17.24.17:206][771]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.12.02-17.24.17:206][771]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.12.02-17.24.17:206][771]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2016.12.02-17.24.17:206][771]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2016.12.02-17.24.17:206][771]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2016.12.02-17.24.17:206][771]LogOnline:Display: Unloading online subsystem: NULL
+[2016.12.02-17.24.17:207][771]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2016.12.02-17.24.17:210][771]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.12.02-17.24.17:210][771]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.12.02-17.24.17:212][771]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.12.02-17.24.17:212][771]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.12.02-17.24.17:212][771]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.12.02-17.24.17:212][771]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.12.02-17.24.17:231][771]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.12.02-17.24.17:232][771]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.12.02-17.24.17:232][771]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.12.02-17.24.17:232][771]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.12.02-17.24.17:232][771]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.12.02-17.24.17:232][771]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.12.02-17.24.17:232][771]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.12.02-17.24.17:232][771]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.12.02-17.24.17:233][771]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.12.02-17.24.17:233][771]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.12.02-17.24.17:235][771]LogExit: Exiting.
+[2016.12.02-17.24.17:250][771]Log file closed, 12/03/16 02:24:17
